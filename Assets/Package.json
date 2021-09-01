@@ -1,0 +1,13 @@
+{
+  "name": "com.babybus.u3d.AssetsSettingsBatch",
+  "displayName": "AssetsSettingsBatch",
+  "description": "模型贴图设置批处理",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "keyword": {
+	"unity"
+  },
+  "author": {
+	"name": "XueF"
+  }
+}
