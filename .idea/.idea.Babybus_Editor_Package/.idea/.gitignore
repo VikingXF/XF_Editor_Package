@@ -1,0 +1,13 @@
+﻿# 默认忽略的文件
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Babybus_Editor_Package.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# 数据源本地存储已忽略文件
+/../../../../../../:\Work\Babybus_Editor_Package\.idea\.idea.Babybus_Editor_Package\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
